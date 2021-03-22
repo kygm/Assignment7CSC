@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqTRvPMnh39tJi6B0kjcjJXj3AVkKro7iYg7JCegzN0KFu21L5LGnRnedqwgof98P+NyHzBWVzRZTC8agkP8zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricke\\source\\repos\\Assignment7\\Assignment7\\Assignment7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.core\\1.2.0\\amazon.lambda.core.1.2.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.dynamodbevents\\1.2.0\\amazon.lambda.dynamodbevents.1.2.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.serialization.json\\1.8.0\\amazon.lambda.serialization.json.1.8.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\awssdk.core\\3.5.3.8\\awssdk.core.3.5.3.8.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.4.37\\awssdk.dynamodbv2.3.5.4.37.nupkg.sha512",
+    "C:\\Users\\ricke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

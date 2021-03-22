@@ -1,0 +1,15 @@
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Assignment7.deps.json
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Assignment7.runtimeconfig.json
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Assignment7.runtimeconfig.dev.json
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Assignment7.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\obj\Debug\netcoreapp3.1\Assignment7.csprojAssemblyReference.cache
+C:\Users\ricke\source\repos\Assignment7\Assignment7\obj\Debug\netcoreapp3.1\Assignment7.AssemblyInfoInputs.cache
+C:\Users\ricke\source\repos\Assignment7\Assignment7\obj\Debug\netcoreapp3.1\Assignment7.AssemblyInfo.cs
+C:\Users\ricke\source\repos\Assignment7\Assignment7\obj\Debug\netcoreapp3.1\Assignment7.csproj.CopyComplete
+C:\Users\ricke\source\repos\Assignment7\Assignment7\obj\Debug\netcoreapp3.1\Assignment7.genruntimeconfig.cache
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\Users\ricke\source\repos\Assignment7\Assignment7\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.Json.dll
